@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[kindle's blog]]></title>
-  <link href="http://cloud-sec.github.com/atom.xml" rel="self"/>
-  <link href="http://cloud-sec.github.com/"/>
-  <updated>2012-10-14T15:45:55+08:00</updated>
-  <id>http://cloud-sec.github.com/</id>
+  <link href="http://www.cloud-sec.com/atom.xml" rel="self"/>
+  <link href="http://www.cloud-sec.com/"/>
+  <updated>2012-10-14T15:48:09+08:00</updated>
+  <id>http://www.cloud-sec.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[新博客开张了]]></title>
-    <link href="http://cloud-sec.github.com/blog/2012/10/14/xin-bo-ke-kai-zhang-liao/"/>
+    <link href="http://www.cloud-sec.com/blog/2012/10/14/xin-bo-ke-kai-zhang-liao/"/>
     <updated>2012-10-14T15:39:00+08:00</updated>
-    <id>http://cloud-sec.github.com/blog/2012/10/14/xin-bo-ke-kai-zhang-liao</id>
+    <id>http://www.cloud-sec.com/blog/2012/10/14/xin-bo-ke-kai-zhang-liao</id>
     <content type="html"><![CDATA[<p>上次博客关闭距今差不多一年多了。一直想重开博客记录一些东西，但是一直忙于工作。很少有时间维护服务器，也没有找到什么稳定的空间，就一直没有开。最近发现同事们都在用github的空间做博客，看着挺酷的。于是乎。。。。。。。。。。。。。</p>
 ]]></content>
   </entry>
